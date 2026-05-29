@@ -1,0 +1,6 @@
+{
+  "name": "AutoGlam AI",
+  "description": "En professionell, modern och responsiv landningssida och portfolio för en AI-byrå som förvandlar tråkiga bilbilder till rampljus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
